@@ -1,9 +1,11 @@
 # ksrp_polislogg
 
 ----------------------------- *Swedish* -----------------------------
+
 För att trigga kommandot så måste man lägga in detta
 
 ----------------------------- *English* -----------------------------
+
 To add a row in the logg you must add the snippet. The snippet is token from row (ish) 2074.
 
 ----------------------------- *Snippet* -----------------------------

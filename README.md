@@ -1,5 +1,7 @@
 # ksrp_polislogg
 
+NOT SUPPORTED ANYMORE
+
 ----------------------------- *Swedish* -----------------------------
 
 För att trigga kommandot så måste man lägga in detta
@@ -21,6 +23,3 @@ Exempel:
 
 ----------------------------- *Info* -----------------------------
 
-I prefer you to write in the forum!
-
-My discord: FiskN#3635
